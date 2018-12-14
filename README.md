@@ -1,4 +1,7 @@
 # MASwaggerT
+
+> see https://aka.ms/autorest
+
 MA swagger test
 
 ### Basic Information
