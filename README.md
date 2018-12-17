@@ -5,7 +5,7 @@
 MA swagger test
 
 ### Basic Information
-These are the global settings for the Compute API.
+These are the global settings for the test API.
 
 ``` yaml
 title: Test Foo Bar
