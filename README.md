@@ -13,8 +13,6 @@ description: Test Foo Bar
 openapi-type: arm
 tag: 2018-08-14-preview
 
-directive:
-
 ```
 
 ### Tag: 2018-08-14-preview
