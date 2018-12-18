@@ -19,6 +19,16 @@ directive:
   - suppress:
     - OperationsAPIImplementation
 
+title: Microwaves
+description: Microwaves
+openapi-type: arm
+tag: 2018-09-14-preview
+
+directive:
+  - where:
+    - $.paths
+  - suppress:
+    - OperationsAPIImplementation
 ```
 
 ### Tag: 2018-08-14-preview
