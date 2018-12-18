@@ -19,6 +19,9 @@ directive:
   - suppress:
     - OperationsAPIImplementation
 
+```
+
+``` yaml
 title: Microwaves
 description: Microwaves
 openapi-type: arm
@@ -29,6 +32,7 @@ directive:
     - $.paths
   - suppress:
     - OperationsAPIImplementation
+    
 ```
 
 ### Tag: 2018-08-14-preview
